@@ -14,9 +14,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" a href="www.linkedin.com/in/
+<p align="left"> <a href="www.linkedin.com/in/
 neeraj-bairwa-21089a21b
-">Linkedin 
+">Linkedin</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
