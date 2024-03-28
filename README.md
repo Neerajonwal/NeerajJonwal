@@ -1,16 +1,17 @@
 # NeerajJonwal
-<h1 align="center">Hi 👋, I'm Neeraj bairwa</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Neeraj Bairwa</h1>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajonwal&label=Profile%20views&color=0e75b6&style=flat" alt="neerajonwal" /> </p>
 
-- 🔭 I was a backend developer there. [Tej.life](https://www.tej.life/)
+- 🔭 Backend Developer at [Tej.life](https://www.tej.life/).
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 Currently, I'm expanding my skills in **React.js**.
 
-- 👯 I’m looking to collaborate on **Backend**
+- 👯 I’m open to collaborating on projects related to **Backend Development**.
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 Seeking assistance with **DevOps**. Any guidance in this area would be greatly appreciated.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
