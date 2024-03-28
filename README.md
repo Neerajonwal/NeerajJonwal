@@ -17,6 +17,8 @@
 <p align="left"> <a href="www.linkedin.com/in/
 neeraj-bairwa-21089a21b
 ">Linkedin</a> 
+<p align="left"> <a href="jonwalneeraj2@gmail.com
+">Jonwalneeraj2@gmail.com</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
