@@ -1,4 +1,4 @@
-# NeerajJonwal
+# Neeraj Jonwal
 <h1 align="center">Hi 👋, I'm Neeraj Bairwa</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
